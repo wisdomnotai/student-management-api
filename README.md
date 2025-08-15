@@ -93,23 +93,3 @@ Whether you want to:
 
 👉 Fork it, clone it, and submit a PR!
 
-
-If you want, I can also **add an "API Endpoints" table** with example requests so your GitHub page looks even more professional.
-Do you want me to include that?
-
-
-
-
-# Student CRUD API with FastAPI
-
-A simple CRUD API to manage students using FastAPI.
-
-## Features
-- Create, read, update, delete students
-- Get students by name
-- In-memory storage
-
-## How to Run
-```bash
-pip install -r requirements.txt
-uvicorn main:app --reload
